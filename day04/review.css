@@ -1,0 +1,46 @@
+.sale{
+background-color: red;
+color: white;
+padding: 12px;
+width: 85px;
+border-radius: 23px;
+  font-size: 27px;
+  font-weight: 500;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+.today{
+    background-color: pink;
+    color: white;
+    padding: 12px;
+    width: 120px;
+    border-radius: 23px;
+      font-size: 27px;
+      font-weight: 500;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      text-align: center;
+    }
+
+.dream{
+    
+    font-weight: 800;
+    color: white;
+     background-color: blue;
+     width: 250px;
+     text-align: center;
+     padding: 10px 0px 10px 0px;
+border: 1px solid red
+
+  
+    }
+    
+    .dream2{
+
+
+
+
+        
+    }
