@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang&family=Kirang+Haerang&display=swap');
+
+
+
+.dinner{font-family: "Kirang Haerang", system-ui;}
+
+
+
+@font-face {
+    font-family: 'PeoplefirstFightingTTF';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2406-2@1.0/PeoplefirstFightingTTF.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.morning{font-family: 'PeoplefirstFightingTTF';}
+
+
+body{width: 100vw; height: 300vh;
+    background-color: aqua;
+
+}
+
+
+.menu{padding: 20px;
+border: 3px solid pink;
+width: fit-content;
+font-size: 30px;
+position: fixed;
+/* top or bottom: 0px */
+/* left or right 0px */
+bottom: 100px;
+right: 100px;
+}

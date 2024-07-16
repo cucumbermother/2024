@@ -1,0 +1,39 @@
+.palette{
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+
+
+.container{display: flex;
+flex-direction: row;}
+
+
+.box{width: 100px;height: 100px;
+
+
+}
+
+
+
+
+.one{background-color: #f3a683;}
+.two{background-color: #f7d794;}
+.three{background-color: #778beb;
+position: relative;
+top: 50px; right: 50px;}
+.four{background-color: #f19066;}
+.five{background-color: #f5cd79;
+position: relative;
+/* relative 지금 여기서 움직일게 */
+top: 50px; left: 50px;
+}
+.six{background-color: #546de5;}
+.seven{background-color: #786fa6;}
+.eight{background-color: #f8a5c2;}
+.nine{background-color: #63cdda;
+    z-index: 1;
+}
+

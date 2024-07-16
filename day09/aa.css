@@ -1,0 +1,32 @@
+.palette{
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+
+
+.container{display: flex;
+flex-direction: row;}
+
+
+.box{width: 100px;height: 100px;
+
+
+}
+
+
+
+
+.one{background-image: url("cat.jpg"); background-size: cover; background-repeat: no-repeat;}
+.two{background-color: #f7d794;}
+.three{background-color: #778beb;}
+.four{background-color: #f19066;}
+.five{background-color: #f5cd79;}
+.six{background-color: #546de5;}
+.seven{background-color: #786fa6;}
+.eight{background-color: #f8a5c2;}
+.nine{background-color: #63cdda;}
+
+
