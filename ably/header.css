@@ -92,3 +92,16 @@ header{
 .flottingbutton:hover{
     background-color: rgb(219, 59, 87);
 }
+
+
+
+@media screen and (max-width: 768px) {
+    .flottingbutton{
+        width: 80vw; 
+        right: 10%;
+        text-align: center;
+
+
+    }
+    
+}
